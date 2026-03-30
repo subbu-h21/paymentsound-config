@@ -1,0 +1,14 @@
+{
+  "senders": [
+    "VM-SBIBNK", "AD-SBIBNK", "BW-SBIBNK",
+    "AD-HDFCBK", "VM-HDFCBK",
+    "BW-ICICIB", "AD-ICICIB",
+    "AD-AXISBK", "VM-AXISBK",
+    "AD-KOTAKB",
+    "AD-PNBBNK",
+    "AD-BOBIIG",
+    "AD-CNRBNK",
+    "AD-UBINSG",
+    "AD-INDBNK"
+  ]
+}
